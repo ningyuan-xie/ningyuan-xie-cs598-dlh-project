@@ -83,7 +83,7 @@ tqdm==4.66.5
 
 1. **Clone this repository:**
    ```bash
-   git clone [your-repo-url]
+   git clone https://github.com/ningyuan-xie/ningyuan-xie-cs598-dlh-project.git
    cd ningyuan-xie-cs598-dlh-project
    ```
 
